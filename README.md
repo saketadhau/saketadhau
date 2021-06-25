@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saketadhau
 - 👀 I’m interested in Machine Learning, Optimization, Model Predcitve Control, BioMedical Applications
-- 🌱 I’m currently learning RL
-- 📫 How to reach me ... saketadhau@live.com
+- 🌱 I’m currently a PhD student at Engineering Cybernetics, NTNU. 
+- 📫 How to reach me ... https://saketadhau.github.io/ / saketadhau@live.com 
 
 <!---
 saketadhau/saketadhau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
