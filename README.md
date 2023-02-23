@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saketadhau
-- 👀 I’m interested in Machine Learning, Optimization, Model Predcitve Control, BioMedical Applications
+- 👀 I’m interested in Machine Learning for Optimization and Model Predcitve Control
 - 🌱 I’m currently a PhD student at Engineering Cybernetics, NTNU. 
 - 📫 How to reach me ... https://saketadhau.github.io/ / saketadhau@live.com 
 
